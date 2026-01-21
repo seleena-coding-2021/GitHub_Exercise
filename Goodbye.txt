@@ -1,0 +1,3 @@
+I had to navigate to the hashcode of the first commit in order to create
+the new branch after the Hello.txt was created but before the Folder was
+created. Then, I added the Goodbye.txt, which is where I am typing right now. 
