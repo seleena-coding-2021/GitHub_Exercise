@@ -1,0 +1,2 @@
+After making a new public repository and cloning it to my local repository, I
+created the Hello.txt file. This is this file... whoo!
